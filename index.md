@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jiaqing2/jiaqing2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is used for extra credit in CS 125.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
