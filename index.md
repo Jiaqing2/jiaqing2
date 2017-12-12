@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
 This page is used for extra credit in CS 125.
 
