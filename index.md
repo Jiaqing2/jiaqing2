@@ -1,4 +1,6 @@
+<p align = "right">
 ## Welcome to My Page
+</p>
 
 This page is used for extra credit in CS 125.
 
