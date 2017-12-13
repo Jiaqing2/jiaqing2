@@ -11,6 +11,10 @@ ___
   + Major : _Mechanical Engineering_
     - Minor : _Computer Science_
   + I was transfered to U of I last fall.
+  
+## Image of my recent project
+
+![RoboMaster](jiaqing2.github.io/IMG_20171203_235950.jpg)
 
 ### Jekyll Themes
 
