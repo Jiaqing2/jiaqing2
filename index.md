@@ -2,7 +2,7 @@
 
 This page is used for extra credit in CS 125.
 
-## Webpage by Jiaqin Gao, netID *jiaqing2*
+## Webpage by _Jiaqin Gao_, netID *jiaqing2*
 
 I update this on Wednesday, 12/13/2017.
 
