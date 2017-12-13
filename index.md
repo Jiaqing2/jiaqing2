@@ -10,7 +10,7 @@ ___
   + I come from Shanghai, China
   + Major : _Mechanical Engineering_
     - Minor : _Computer Science_
-  + I was transfered to U of I last fall.
+  + I transfered to U of I last fall.
   
 ## Image of my recent project
 
