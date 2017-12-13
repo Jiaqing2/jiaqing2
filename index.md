@@ -7,7 +7,10 @@ ___
 
 ## Webpage by **Jiaqin Gao**, netID *jiaqing2*
 
-I update this on Wednesday, 12/13/2017.
++ I come from Shanghai, China
++ Major : _Mechanical Engineering_
+- Minor : _Computer Science_
++ I was transfered to U of I last fall.
 
 ### Jekyll Themes
 
